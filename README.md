@@ -16,19 +16,21 @@
 <img align="right" width="200" alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
 <p>
-I am a passionate developer, always looking to learn and build new things. I love to create innovative solutions and contribute to open-source projects.
+I am a passionate developer with a strong interest in reverse engineering, systems programming, and low-level computing.  
+I love exploring how software works under the hood and building creative technical projects.
 </p>
 
 <ul>
   <li>📚 <b>Currently learning:</b>
     <ul>
-      <li>C++ memory hacking</li>
-      <li>Unreal Engine / ImGui / Rocket League internals</li>
+      <li>C++ memory management & internals</li>
+      <li>Reverse engineering tools and techniques</li>
+      <li>UI development with ImGui</li>
     </ul>
   </li>
-  <li>🚀 <b>Looking to collaborate on:</b> Rocket League client-side mods</li>
-  <li>✔ <b>Ask me about:</b> Memory editing, DLL injection, UI with ImGui</li>
-  <li>🎮 <b>Hobbies:</b> Gaming, coding mods, watching tech videos, reverse engineering</li>
+  <li>🚀 <b>Looking to collaborate on:</b> Reverse engineering, system utilities, and open-source tools</li>
+  <li>✔ <b>Ask me about:</b> Low-level programming, debugging, PC performance optimization</li>
+  <li>🎮 <b>Hobbies:</b> Coding projects, exploring OS internals, watching tech breakdowns, cybersecurity</li>
 </ul>
 
 <!-- Skills -->
